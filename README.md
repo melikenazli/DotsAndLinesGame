@@ -16,3 +16,15 @@ To play the game you need to follow these steps:
 2- Run the Server class.
 3- Run the Player class for the first player.
 4- Run the Player class again for the second player.
+
+# Screenshots
+## Beginning of the Game:
+![image](https://github.com/melikenazli/DotsAndLinesGame/assets/85702134/6721dba9-8c03-4ac3-a75e-99638d37d99c)
+
+## Drawing Lines and Forming Squares:
+![image](https://github.com/melikenazli/DotsAndLinesGame/assets/85702134/25ff77fa-2de4-4361-8bbb-ef894cbacda2)
+
+## End of the Game:
+![image](https://github.com/melikenazli/DotsAndLinesGame/assets/85702134/ace729c0-449b-4a8a-b9f1-efe668b39ee6)
+
+
